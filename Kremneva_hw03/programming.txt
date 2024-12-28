@@ -1,0 +1,43 @@
+As our society becomes increasingly technology-obsessed, programming languages are used by various people and businesses to accomplish particular tasks or functions. When computer users interact with services like social media or emails, they use a programming language’s code (specifically through commands) to complete these tasks.
+
+In 1843, before the invention of computers, the first programming language was created by Ada Lovelace, one of the earliest female mathematicians. Since then, programming languages have made significant advancements, but this undoubtedly was a pivotal milestone in the development of programming languages.
+
+Programming languages have existed since before the invention of human-readable codes, which we now use to complete routine technological tasks. The following are some significant events in the development of programming languages that might interest you.
+
+The first computer algorithm was invented in 1843 by Ada Lovelace. Quite interestingly, Charles Babbage designed a machine for which this algorithm was intended.
+
+Konrad Zuse created the programming language Plankalkul in the 1940s. It was the first high-level computer programming language ever developed and contained many coding sequences that engineers commonly use to execute basic activities.
+
+The first computer to use assembly language was the Electronic Delay Storage Automatic Calculator in 1949. Assembly language is a low-level programming language designed to simplify the machine code for writing instructions for the processors. This indicates that modern computers are easier to program than those in 1949.
+
+John McCauley mentioned shortcode in 1949, but that wasn’t implemented until 1949 and 1950 by W. Schmitt to improve the operations of the BINAC and UNIVAC computers.
+
+In 1952, Alick Glennie coined the word Autocode to refer to a set of programming languages. Glennie was an expert in computer science who used Autocode mainly for the Mark 1 computer. It was the first compiled programming language used to translate machine code via a special application known as the compiler.
+
+One of the first programming languages ever created, FORTRAN, was developed in 1957 and is still used today. Developed to solve scientific and mathematical problems, the FORTRAN programming language has stood the test of time.
+
+In 1958, two coding languages were created: Algorithmic language (ALGOL) and List Processor (LISP). American and European computer scientists came together to create ALGOL, which is believed to be the origin of popular programming languages such as C, C++, Java, and Pascal.
+
+McCarthy created LISP to be used in his artificial intelligence applications, and it is one of the oldest computer programming languages still used today. Many individuals and companies continue to favor LISP over other programming languages, such as Ruby or Python.
+
+Dr. Grace Murray Hopper created COBOL in 1959. It became the first third-generation programming language and was originally designed for business applications, but it is now used for many different tasks. In 1989, COBOL was estimated to be in use by over 100 million people and is still widely employed in today’s banking systems.
+
+Niklaus Wirth developed PASCAL, which he named after famed mathematician Blaise Pascal. Initially designed to help users learn programming languages, Apple was one of the leading firms to endorse it due to its streamlined and straightforward process.
+
+The Smalltalk language was designed and created in order to help programmers modify programming languages, resulting in a variety of applications, including Java, Python, and Ruby.
+
+Dennis Ritchie developed C and named it so because the language descended from B. Some well-known technology companies that continue to employ C include Apple, Google, and Facebook.
+
+Donald Chamberlain and Raymond Boyce created SQL, a structured query language that helps to modify and view important computer data. Today, many firms, such as Microsoft and Accenture, continue to use SQL.
+
+A C programmer, Bjarne Stroustrup, modified the programming language and released it as C++ in 1983. The changes he made to it introduced new features such as templates, classes, and virtual jobs. In 2003, C++ also won an award as one of the top programming languages. Microsoft Office, gaming platforms like PlayStation and Nintendo 64, Adobe Photoshop, and plenty of other programs use C++.
+
+Objective-C was created by Tom Love and Brad Cox in 1983 and has been the primary programming language for Apple platforms ever since. This includes iOS and macOS.
+
+Microsoft created Visual Basic in 1991 to make it easier for users to drag and drop scripts simultaneously. Individuals and businesses can choose from a large number of drop-down menus and change different codes with Visual Basic.
+
+Python is one of the most widely used programming languages in the world today. Guido Van Rossum founded it in 1991 as an alternative for different programming styles. Yahoo, Spotify, and Google are just some of the successful companies that continue to use this software extensively.
+
+One of the best programming languages out there is Java. It was created in 1991 by James Gosling for a software project for interactive TV, and these days it’s still immensely popular on mobile devices and PCs. JavaScript is another great programming language that Brendan Eich created in 1995. It’s used primarily as a scripting language in websites, including Gmail and Adobe Photoshop, but it can also be used to create web pages or PDF files (among other things).
+
+PHP was originally introduced in 1995. Its purpose is to help people and companies create and maintain their websites, and this includes our own personal homepage, Facebook, Wikipedia, and many others.
